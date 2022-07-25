@@ -1,0 +1,14 @@
+.panda-bg-danger{
+    background-color: #fceae8;
+}
+.categories img{
+    width: 100px;
+}
+.panda-button-buy{
+    background-image: linear-gradient(rgb(255, 88, 155) 0%, rgb(255, 19, 111) 100%);
+    color:#fff;
+    cursor: pointer;
+    border-style: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+}
